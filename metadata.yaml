@@ -1,0 +1,27 @@
+_repo: The-Ghetto-and-Other-Poems_4332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ridge, Lola
+    birthdate: 1873
+    deathdate: 1941
+    gutenberg_agent_id: '1449'
+    url: http://www.gutenberg.org/2009/agents/1449
+    wikipedia: http://en.wikipedia.org/wiki/Lola_Ridge
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Political poetry'
+- !lcsh 'Protest poetry, American'
+- GITenberg
+title: The Ghetto, and Other Poems
+url: http://www.gutenberg.org/ebooks/4332
